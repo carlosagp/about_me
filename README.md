@@ -1,8 +1,8 @@
 # Carlos Garcia
-DevPoint Labs Lead Instructor
-carlos@devpointlabs.com
-github.com/carlosagp
-linkedin.com/carlosagp
+- DevPoint Labs Lead Instructor
+- carlos@devpointlabs.com
+- github.com/carlosagp
+- linkedin.com/in/carlosagp
 
 ## About Me
 
